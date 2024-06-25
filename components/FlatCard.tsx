@@ -5,6 +5,7 @@ export default function FlatCard() {
   return (
     <View>
       <Text style={styles.headingText}>Tourism Helper</Text>
+      <Text style={styles.subHeading}>Select a city</Text>
       <ScrollView horizontal={true}>
       <View style={styles.container }>
         <View style={[styles.card, styles.cardOne]}>
@@ -28,8 +29,14 @@ export default function FlatCard() {
 const styles = StyleSheet.create({
     headingText: {
         fontSize:24,
+        fontWeight:'bold',
+        paddingHorizontal: 12,
+        paddingVertical:8,
+        color: 'black'
+    },
+    subHeading:{
         fontWeight:'semibold',
-        paddingHorizontal: 8,
+        paddingHorizontal: 15,
         paddingVertical:8,
     },
     container: {
