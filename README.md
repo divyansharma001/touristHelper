@@ -1,3 +1,11 @@
+![image](https://github.com/divyansharma001/touristHelper/assets/140371139/8f406d7c-a336-4479-804c-7e44c8fb59e7)
+![image](https://github.com/divyansharma001/touristHelper/assets/140371139/db4084ab-46a5-4b68-b529-baa4aad7c609)
+![image](https://github.com/divyansharma001/touristHelper/assets/140371139/e81f2a53-4356-4b8c-82ea-7a8b73d86c14)
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
